@@ -1,4 +1,4 @@
-# avance
+# Avance
 
 En este presente trabajo se realizo un simulador de procesos en java
 
